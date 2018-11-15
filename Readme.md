@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Window1.xaml](./CS/CarouselItemMovingPath/Window1.xaml) (VB: [Window1.xaml](./VB/CarouselItemMovingPath/Window1.xaml))
+<!-- default file list end -->
 # How to specify a path for a CarouselControl
 
 
