@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+# Visual Studio 2012
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "CarouselItemMovingPath", "CarouselItemMovingPath\CarouselItemMovingPath.vbproj", "{B32B6628-DDCF-4E49-9CD9-AAEDBC1DF060}"
 EndProject
 Global

@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselItemMovingPath", "CarouselItemMovingPath\CarouselItemMovingPath.csproj", "{B32B6628-DDCF-4E49-9CD9-AAEDBC1DF060}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarouselItemMovingPath", "CarouselItemMovingPath\CarouselItemMovingPath.Net5.csproj", "{B32B6628-DDCF-4E49-9CD9-AAEDBC1DF060}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
